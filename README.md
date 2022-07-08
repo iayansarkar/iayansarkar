@@ -3,23 +3,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- - 🔭 I’m currently working on [My own projects](https://ayansarkar.org) -->
+<!-- - 🔭 I’m currently working on [My own projects](https://ayansarkar.in) -->
 
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science & Engineering**
 
-<!-- - 👯 I’m looking to collaborate on [Family](https://ayansarkar.org) -->
+<!-- - 👯 I’m looking to collaborate on [Family](https://ayansarkar.in) -->
 
-- 🤝 I’m looking for help with [Jobs](https://ayansarkar.org)
+- 🤝 I’m looking for help with [Jobs](https://ayansarkar.in)
 
-- 👨‍💻 All of my projects are available at [Click Here](https://ayansarkar.org/#projects)
+- 👨‍💻 All of my projects are available at [Click Here](https://ayansarkar.in/#projects)
 
-<!-- - 📝 I regularly write articles on [https://ayansarkar.org/#blog](https://ayansarkar.org/#blog) -->
+<!-- - 📝 I regularly write articles on [https://ayansarkar.org/#blog](https://ayansarkar.in/#blog) -->
 
 - 💬 Ask me about **Hi! I am Ayan Sarkar and I am a Responsive WordPress Developer, Microsoft Excel Expert and Logo designer. I had completed Diploma in computer science and engineering at Techno India University, West Bengal with very good analytical, understanding, hardworking and communication skills. I am passionate about Microsoft Excel, Cloud, Data Analytics, WordPress, Full Stack Web Development. I consider every task to be a new challenge.**
 
 - 📫 How to reach me **contact.ayansarkar@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://ayansarkar.org)
+- 📄 Know about my experiences [Click Here](https://ayansarkar.in)
 
 - ⚡ Fun fact **Non-veg tastes way better than Veg | Change my mind!**
 
