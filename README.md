@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science & Engineering**
 
-- 👯 I’m looking to collaborate on [Family](https://ayansarkar.org)
+<!-- - 👯 I’m looking to collaborate on [Family](https://ayansarkar.org) -->
 
 - 🤝 I’m looking for help with [Jobs](https://ayansarkar.org)
 
