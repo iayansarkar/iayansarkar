@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iayansarkar/)](_https://www.linkedin.com/in/iayansarkar/)
 [![Gmail Badge](https://img.shields.io/badge/-contact.ayansarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.ayansarkar@gmail.com)](mailto:contact.ayansarkar@gmail.com) 
-[![Web Badge](https://img.shields.io/badge/-ayansarkar.dev-black?style=flat-square&logo=Internet&logoColor=white&link=https://ayansarkar.dev/)](_https://ayansarkar.dev/)
+[![Internet Badge](https://img.shields.io/badge/-ayansarkar.dev-purple?style=flat-square&logo=internet&logoColor=white&link=https://ayansarkar.dev/)](_https://ayansarkar.dev/)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
