@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iayansarkar/)](https://www.linkedin.com/in/iayansarkar/)
+[![Gmail Badge](https://img.shields.io/badge/-contact.ayansarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:contact.ayansarkar@gmail.com) 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
