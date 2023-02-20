@@ -45,6 +45,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=iayansarkar&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
+<br>
+<br>
 
 <h2 align="center">Thank You! 😉</h2>
 
