@@ -31,13 +31,12 @@
 ### Languages and Tools:
 <img align="left" alt="arduino" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
 <img align="left" alt="html" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166917044-8a130c6c-64fc-4ee6-b07c-3947ea4d2e2d.png"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166917442-aa1f2432-b23d-4583-b444-d0cedb419782.png" alt="css" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918321-31257a22-eca0-4daa-8183-fcc3b0dd7a1e.png" alt="javascript" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918304-9cedcaab-5338-4905-b5ad-3b1a5334dcf2.png" alt="wordpress" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918886-88959c98-1c65-4929-ad0e-46f840c1878d.png" alt="mysql" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918341-d78dc975-8c70-48e0-8ce7-32dd1c702047.png" alt="excel" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918355-f17d46d2-8548-4f80-bd4a-1b8ef1469838.png" alt="word" width="40" height="40"/></a>
-</p>
+<img align="left" alt="css" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166917442-aa1f2432-b23d-4583-b444-d0cedb419782.png">
+<img align="left" alt="javascript" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918321-31257a22-eca0-4daa-8183-fcc3b0dd7a1e.png">
+<img align="left" alt="wordpress" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918304-9cedcaab-5338-4905-b5ad-3b1a5334dcf2.png">
+<img align="left" alt="mysql" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918886-88959c98-1c65-4929-ad0e-46f840c1878d.png">
+<img align="left" alt="excel" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918341-d78dc975-8c70-48e0-8ce7-32dd1c702047.png">
+<img align="left" alt="word" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918355-f17d46d2-8548-4f80-bd4a-1b8ef1469838.png">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sarkar-ayan&show_icons=true&locale=en" alt="sarkar-ayan" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkar-ayan&" alt="sarkar-ayan" /></p> 
