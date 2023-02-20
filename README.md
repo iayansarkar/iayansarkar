@@ -44,7 +44,8 @@
 
 ### Share my earning badge
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f88b735-3cb0-4389-bb7b-098d567ebcc8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![sap-certified-application-associate-sap-analytics-cloud](https://user-images.githubusercontent.com/80643467/220061509-f9211b69-079c-4e3f-98f1-8d12a54f40cc.png)
+
 
 ### :zap: Github Stats
 <p>
