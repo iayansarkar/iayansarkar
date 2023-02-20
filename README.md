@@ -6,25 +6,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- - 🔭 I’m currently working on [My own projects](https://ayansarkar.in) -->
+- 🎯 Portfolio website: [Portfolio](https://ayansarkar.dev/)
 
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science & Engineering**
 
-<!-- - 👯 I’m looking to collaborate on [Family](https://ayansarkar.in) -->
+- 💬 Ask me about anything, I am happy to help :smile:
 
 - 🤝 I’m looking for help with [Jobs](https://ayansarkar.in)
 
-- 👨‍💻 All of my projects are available at [Click Here](https://ayansarkar.in/#projects)
+- 📫 How to reach me: [Let's get in touch!][linkedin]
+
+- ⚡ Fun fact **Non-veg tastes way better than Veg | Change my mind!**
 
 <!-- - 📝 I regularly write articles on [https://ayansarkar.org/#blog](https://ayansarkar.in/#blog) -->
 
-- 💬 Ask me about **Hi! I am Ayan Sarkar and I am a Responsive WordPress Developer, Microsoft Excel Expert and Logo designer. I had completed Diploma in computer science and engineering at Techno India University, West Bengal with very good analytical, understanding, hardworking and communication skills. I am passionate about Microsoft Excel, Cloud, Data Analytics, WordPress, Full Stack Web Development. I consider every task to be a new challenge.**
-
-- 📫 How to reach me **contact.ayansarkar@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://ayansarkar.in)
-
-- ⚡ Fun fact **Non-veg tastes way better than Veg | Change my mind!**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -40,9 +35,8 @@
 <a href="https://youtube" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80643467/166914712-d9fbf2fb-574e-4017-a94b-142bf34137f5.png" alt="youtube" height="40" width="40" /></a> 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   
+### Languages and Tools:
+<img align="left" alt="arduino" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166917044-8a130c6c-64fc-4ee6-b07c-3947ea4d2e2d.png" alt="html" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166917442-aa1f2432-b23d-4583-b444-d0cedb419782.png" alt="css" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80643467/166918321-31257a22-eca0-4daa-8183-fcc3b0dd7a1e.png" alt="javascript" width="40" height="40"/></a>
