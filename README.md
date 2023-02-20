@@ -2,13 +2,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎯 Portfolio website: [Portfolio](https://ayansarkar.dev/)
-
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science & Engineering**
 
 - 💬 Ask me about anything, I am happy to help :smile:
 
-- 🤝 I’m looking for help with [Jobs](https://ayansarkar.in)
+- 🤝 I’m looking for help with [Jobs](https://ayansarkar.dev)
+
+- 🎯 Portfolio website: [Portfolio](https://ayansarkar.dev/)
 
 - 📫 How to reach me: [Let's get in touch!][linkedin]
 
