@@ -38,6 +38,8 @@
 <img align="left" alt="excel" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918341-d78dc975-8c70-48e0-8ce7-32dd1c702047.png">
 <img align="left" alt="word" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918355-f17d46d2-8548-4f80-bd4a-1b8ef1469838.png">
 
+<br>
+<br>
 
 ### :zap: Github Stats
 <p>
@@ -45,8 +47,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=iayansarkar&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
-<br>
-<br>
+
 
 <h2 align="center">Thank You! 😉</h2>
 
