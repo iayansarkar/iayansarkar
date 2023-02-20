@@ -39,9 +39,12 @@
 <img align="left" alt="word" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918355-f17d46d2-8548-4f80-bd4a-1b8ef1469838.png">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sarkar-ayan&show_icons=true&locale=en" alt="sarkar-ayan" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkar-ayan&" alt="sarkar-ayan" /></p> 
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkar-ayan&show_icons=true&locale=en&layout=compact" alt="sarkar-ayan"/></a>
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
 
 <h2 align="center">Thank You! 😉</h2>
 
