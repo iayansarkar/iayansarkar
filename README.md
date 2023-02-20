@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
 
-https://mail.google.com/mail/?view=cm&to={contact.ayansarkar@gmail.com}&su={contact.ayansarkar@gmail.com}&body={mailto:contact.ayansarkar@gmail.com}&bcc={contact.ayansarkar@gmail.com}&cc={contact.ayansarkar@gmail.com}
+[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)]Update 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
