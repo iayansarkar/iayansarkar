@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iayansarkar/)](_https://www.linkedin.com/in/iayansarkar/)
-[![Gmail Badge](https://img.shields.io/badge/-contact.ayansarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.ayansarkar@gmail.com)](mailto:contact.ayansarkar@gmail.com) 
-[![Internet Badge](https://img.shields.io/badge/-ayansarkar.dev-purple?style=flat-square&logo=internet&logoColor=white&link=https://ayansarkar.dev/)](_https://ayansarkar.dev/)
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎯 Portfolio website: [Portfolio](https://ayansarkar.dev/)
@@ -26,13 +22,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://ayansarkar.org" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80643467/166913452-08fd4906-3fa4-46be-824b-ae865004863b.png" alt="portfolio" height="40" width="40" /></a> 
-<a href="https://github.com/sarkar-ayan" target="_blank/"><img align="center" src="https://user-images.githubusercontent.com/80643467/166911433-350619c2-9e43-425d-a8eb-d4f5e398f250.png" alt="github" height="40" width="40" /></a> 
-<a href="https://linkedin.com/in/sarkar-ayan" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80643467/166912454-a49d469a-ed55-4741-8a3b-9df6fe1724d0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://twitter.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80643467/166913483-bda2170d-ea64-47a5-a0cf-4d39474a8e7a.png" alt="dev6yt33fb" height="40" width="40" /></a> 
-<a href="https://youtube" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/80643467/166914712-d9fbf2fb-574e-4017-a94b-142bf34137f5.png" alt="youtube" height="40" width="40" /></a> 
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iayansarkar/)](_https://www.linkedin.com/in/iayansarkar/)
+[![Gmail Badge](https://img.shields.io/badge/-contact.ayansarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.ayansarkar@gmail.com)](mailto:contact.ayansarkar@gmail.com) 
+[![Internet Badge](https://img.shields.io/badge/-ayansarkar.dev-purple?style=flat-square&logo=internet&logoColor=white&link=https://ayansarkar.dev/)](_https://ayansarkar.dev/)
 
 
 ### Languages and Tools:
