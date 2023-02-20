@@ -42,6 +42,10 @@
 <br>
 <br>
 
+### Share my earning badge
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f88b735-3cb0-4389-bb7b-098d567ebcc8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### :zap: Github Stats
 <p>
     <a href="https://gitstats.me/iayansarkar" target="_blank"> 
