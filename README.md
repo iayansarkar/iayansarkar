@@ -45,7 +45,7 @@
 ### Share my earning badge
 
 <img align="left" alt="sap-certified-application-associate-sap-analytics-cloud" width="60" height="60" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/220061917-3360f940-1164-4c3e-ba9b-47e6cab452ae.png"><br><br>
-<p align="center">SAP</p>
+<p align="left">SAP</p>
 
 <br>
 <br>
