@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
 
-[![Linkedin Badge](_https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=_https://www.linkedin.com/in/iayansarkar/)](_https://www.linkedin.com/in/iayansarkar/)
+[![Linkedin Badge](https://img.shields.io/badge/-iayansarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iayansarkar/)](_https://www.linkedin.com/in/iayansarkar/)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
