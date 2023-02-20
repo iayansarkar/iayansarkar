@@ -42,9 +42,9 @@
 <br>
 <br>
 
-### Share my earning badge
+### My earning badge:
 
-<a href="https://www.credly.com/badges/1f88b735-3cb0-4389-bb7b-098d567ebcc8/public_url"><img align="left" alt="sap-certified-application-associate-sap-analytics-cloud" width="80" height="80" href="#" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/220061917-3360f940-1164-4c3e-ba9b-47e6cab452ae.png"></a>
+<a href="https://www.credly.com/badges/1f88b735-3cb0-4389-bb7b-098d567ebcc8/public_url"><img align="left" alt="sap-certified-application-associate-sap-analytics-cloud" width="90" height="90" href="#" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/220061917-3360f940-1164-4c3e-ba9b-47e6cab452ae.png"></a>
 
 <br>
 <br>
