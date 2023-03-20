@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Non-veg tastes way better than Veg | Change my mind!**
 
-<!-- - 📝 I regularly write articles on [https://ayansarkar.org/#blog](https://ayansarkar.in/#blog) -->
+- 📝 I regularly write articles on [Blog](https://blog.ayansarkar.dev/) 
 
 
 <!-- ### Blogs posts -->
