@@ -6,15 +6,13 @@
 
 - 💬 Ask me about anything, I am happy to help :smile:
 
-- 🤝 I’m looking for help with [Jobs](https://ayansarkar.dev)
-
 - 🎯 Portfolio website: [Portfolio](https://ayansarkar.dev/)
 
-- 📫 How to reach me: [Let's get in touch!][linkedin]
+- 📫 How to reach me: [Let's get in touch!](https://linkedin.com/in/iayansarkar)
 
 - ⚡ Fun fact **Non-veg tastes way better than Veg | Change my mind!**
 
-- 📝 I regularly write articles on [Blog](https://blog.ayansarkar.dev/) 
+<!-- - 📝 I regularly write articles on [Blog](https://blog.ayansarkar.dev/) -->
 
 
 <!-- ### Blogs posts -->
