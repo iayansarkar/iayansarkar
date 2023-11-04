@@ -26,7 +26,6 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="arduino" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
 <img align="left" alt="html" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166917044-8a130c6c-64fc-4ee6-b07c-3947ea4d2e2d.png"/>
 <img align="left" alt="css" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166917442-aa1f2432-b23d-4583-b444-d0cedb419782.png">
 <img align="left" alt="javascript" width="40" height="40" href="" target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/80643467/166918321-31257a22-eca0-4daa-8183-fcc3b0dd7a1e.png">
