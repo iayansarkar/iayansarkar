@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/11296499/file/original-c1ae003006962cd5444abde4b9520362.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/11296499/file/original-c1ae003006962cd5444abde4b9520362.gif"> 
+<!-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif -->
 
 
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science & Engineering**
